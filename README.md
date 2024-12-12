@@ -5,7 +5,7 @@
 
 2.Using cli as testing tool i am using apache benchmark and siege as testing tool for increasing load on server
 
-siege -c 10 -r 100 -d 1 http://blog.harishc.site
+siege -c 10 -r 100 -d 1 http://blog.harishc.site ,
 ab -n 100000 -c 10 http://blog.harishc.site//
 
 3.For load conditions i kept if cpu usage is greater than 10 and 10 seconds to warm up as if cpu usage crosses 10 percentage more that 10 seconds new instances count will be increasing 
