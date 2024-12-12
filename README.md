@@ -1,7 +1,7 @@
                                         Highly scalable web application
 
 
-1.To  test scalable web application https://blog.harishc.site/ we  are using wordpress installed as a blog using apache web server in autoscaling with application load balancer and database is installed in Rds
+1.To  test scalable web application http://blog.harishc.site/ we  are using wordpress installed as a blog using apache web server in autoscaling with application load balancer and database is installed in Rds
 
 2.Using cli as testing tool i am using apache benchmark and siege as testing tool for increasing load on server
 
